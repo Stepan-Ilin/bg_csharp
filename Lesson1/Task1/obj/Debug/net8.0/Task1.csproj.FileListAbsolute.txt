@@ -1,0 +1,14 @@
+C:\GeekBrain_Java\3.Знакомство с языками программирования (лекции)\code_csharp\Lesson1\Task1\bin\Debug\net8.0\Task1.exe
+C:\GeekBrain_Java\3.Знакомство с языками программирования (лекции)\code_csharp\Lesson1\Task1\bin\Debug\net8.0\Task1.deps.json
+C:\GeekBrain_Java\3.Знакомство с языками программирования (лекции)\code_csharp\Lesson1\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+C:\GeekBrain_Java\3.Знакомство с языками программирования (лекции)\code_csharp\Lesson1\Task1\bin\Debug\net8.0\Task1.dll
+C:\GeekBrain_Java\3.Знакомство с языками программирования (лекции)\code_csharp\Lesson1\Task1\bin\Debug\net8.0\Task1.pdb
+C:\GeekBrain_Java\3.Знакомство с языками программирования (лекции)\code_csharp\Lesson1\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrain_Java\3.Знакомство с языками программирования (лекции)\code_csharp\Lesson1\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+C:\GeekBrain_Java\3.Знакомство с языками программирования (лекции)\code_csharp\Lesson1\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+C:\GeekBrain_Java\3.Знакомство с языками программирования (лекции)\code_csharp\Lesson1\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+C:\GeekBrain_Java\3.Знакомство с языками программирования (лекции)\code_csharp\Lesson1\Task1\obj\Debug\net8.0\Task1.dll
+C:\GeekBrain_Java\3.Знакомство с языками программирования (лекции)\code_csharp\Lesson1\Task1\obj\Debug\net8.0\refint\Task1.dll
+C:\GeekBrain_Java\3.Знакомство с языками программирования (лекции)\code_csharp\Lesson1\Task1\obj\Debug\net8.0\Task1.pdb
+C:\GeekBrain_Java\3.Знакомство с языками программирования (лекции)\code_csharp\Lesson1\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+C:\GeekBrain_Java\3.Знакомство с языками программирования (лекции)\code_csharp\Lesson1\Task1\obj\Debug\net8.0\ref\Task1.dll
