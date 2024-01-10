@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Task1
-build_property.ProjectDir = C:\GeekBrain_Java\3.Знакомство с языками программирования (лекции)\code_csharp\Lesson1\Task1\
+build_property.ProjectDir = C:\GeekBrain_Java\3.Знакомство с языками программирования\code_csharp\Lesson1\Task1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

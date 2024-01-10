@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GeekBrain_Java\\3.Знакомство с языками программирования (лекции)\\code_csharp\\Lesson1\\Task1\\Task1.csproj",
+      "projectUniqueName": "C:\\GeekBrain_Java\\3.Знакомство с языками программирования\\code_csharp\\Lesson1\\Task1\\Task1.csproj",
       "projectName": "Task1",
-      "projectPath": "C:\\GeekBrain_Java\\3.Знакомство с языками программирования (лекции)\\code_csharp\\Lesson1\\Task1\\Task1.csproj",
+      "projectPath": "C:\\GeekBrain_Java\\3.Знакомство с языками программирования\\code_csharp\\Lesson1\\Task1\\Task1.csproj",
       "packagesPath": "C:\\Users\\stepa\\.nuget\\packages\\",
-      "outputPath": "C:\\GeekBrain_Java\\3.Знакомство с языками программирования (лекции)\\code_csharp\\Lesson1\\Task1\\obj\\",
+      "outputPath": "C:\\GeekBrain_Java\\3.Знакомство с языками программирования\\code_csharp\\Lesson1\\Task1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
